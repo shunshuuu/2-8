@@ -1,0 +1,14 @@
+C:\Users\76349\source\repos\2-8\2-8\bin\Debug\2-8.exe.config
+C:\Users\76349\source\repos\2-8\2-8\bin\Debug\2-8.exe
+C:\Users\76349\source\repos\2-8\2-8\bin\Debug\2-8.pdb
+C:\Users\76349\source\repos\2-8\2-8\obj\Debug\2-8.csprojAssemblyReference.cache
+C:\Users\76349\source\repos\2-8\2-8\obj\Debug\2-8.csproj.CoreCompileInputs.cache
+C:\Users\76349\source\repos\2-8\2-8\obj\Debug\2-8.exe
+C:\Users\76349\source\repos\2-8\2-8\obj\Debug\2-8.pdb
+D:\学习\面向对象程序\2-8\2-8\bin\Debug\2-8.exe.config
+D:\学习\面向对象程序\2-8\2-8\bin\Debug\2-8.exe
+D:\学习\面向对象程序\2-8\2-8\bin\Debug\2-8.pdb
+D:\学习\面向对象程序\2-8\2-8\obj\Debug\2-8.csprojAssemblyReference.cache
+D:\学习\面向对象程序\2-8\2-8\obj\Debug\2-8.csproj.CoreCompileInputs.cache
+D:\学习\面向对象程序\2-8\2-8\obj\Debug\2-8.exe
+D:\学习\面向对象程序\2-8\2-8\obj\Debug\2-8.pdb
